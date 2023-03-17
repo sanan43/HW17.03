@@ -1,0 +1,64 @@
+.h1lorem{
+    font-size: 70px;
+    line-height: 90px;
+    display: flex;
+    justify-content: center;
+    font-family: DauphinPlain;;    
+}
+.h5{
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-style: italic;   
+}
+.h52{
+    font-size: 12px;
+    line-height: 18px;
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    font-family: sans-serif;
+    
+}
+
+a{
+    color: black;
+}
+.why{
+    float: right;
+    width: 500px;
+    margin: 0;
+    padding-right: 50px;
+    margin-top: 15px;
+    justify-content: space-around;
+}
+.esas{
+float: left;
+width: 500px;
+    margin: 0;
+    padding-left: 50px;
+    margin-top: 15px;
+    justify-content: space-around;
+
+}
+.basliq1{
+    font-family: DouphinPlain;
+    
+}
+.basliq2{
+    font-family: DoupinPlain;
+    font-size: 35px;
+}
+.basliq3{
+    font-family: DoupinPlain;
+    font-size: 35px;
+}
+.basliq4{
+    font-family: DoupinPlain;
+    font-size: 35px;
+}
+.all-section{
+    padding-top: 100px;
+}
